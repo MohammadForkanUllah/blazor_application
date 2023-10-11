@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlazorExam_11.Shared/1.0.0": {
+        "runtime": {
+          "BlazorExam_11.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorExam_11.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
